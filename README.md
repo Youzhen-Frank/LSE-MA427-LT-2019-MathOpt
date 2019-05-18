@@ -1,5 +1,6 @@
-LSE MA421 Advanced Algorithms
+# LSE-MA427-LT-2019-MathOpt
+LSE MA421 Mathematical Optimization
 
 Lent Term 2019
 
-Instructor: Dr Tugkan Batu
+Instructor: Dr Giacomo Zambelli
